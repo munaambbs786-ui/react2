@@ -1,0 +1,7 @@
+{
+  "homepage": "https://github.com/munaambbs786-ui/react2.git",
+  "deploy":"gh-pages -d dist",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
